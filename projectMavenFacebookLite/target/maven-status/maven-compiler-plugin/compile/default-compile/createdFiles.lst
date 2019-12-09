@@ -1,0 +1,9 @@
+com\qaminds\facebook\pages\InputPersonalDataFive.class
+com\qaminds\facebook\pages\InputPersonalDataThree.class
+com\qaminds\facebook\pages\InputPersonalDataTwo.class
+com\qaminds\facebook\pages\BasePage.class
+com\qaminds\facebook\pages\IndexPage.class
+com\qaminds\facebook\core\MyDriverAppium.class
+com\qaminds\facebook\App.class
+com\qaminds\facebook\pages\InputPersonalDataOne.class
+com\qaminds\facebook\pages\InputPersonalDataFour.class
